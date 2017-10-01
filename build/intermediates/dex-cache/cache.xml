@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/eee5295e18d5b75f8c7abb19b2d68ebaf2e0b114/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ad24f8b2e9a336bde9526f1823d204621095f29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_4998ef9d2b17e2449448f88f2b6ad41b61b1416b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/d035cbecd916951757e002131641a985328e9f57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe6281d6b18bfc21a572066d30be2086dd984bd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/fd5db56edf0a85b4092563beccf8d72527a5999e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca01cc6779d8b0390b252f6010b6884e65174b89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/acbcfc291d2fb0d67299e2637c8e852399fbea20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b01403e6e8c24cf3809f26e6e4430d28e295eb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_db7db64b4df8b8670ea64572121f93816f8fa068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/b3ee73152fb83e9033a6f832370f8a7ac3ac396b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77b8fc3c4583c125f005c0ec8f3f1dd0071b93f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/9a24196a3f47c6eced0819c3065d7d0966927ac9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_383c1bc7a2c6b4ed0ff420caf87d3b09a20aeb17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/9a24196a3f47c6eced0819c3065d7d0966927ac9/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ea04373bc49df8d0462958123a59608ea7a5ff04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/fd5db56edf0a85b4092563beccf8d72527a5999e/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cdc65ff405c1fbb38a57f71ee2ee5a4e6f19b6c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/7502f37cdbb5b8b608e309395efa8909cbec3e17/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8b7b56cd92690c4424875185aa56906c7bf0d630/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7869ea469ba26b6d87c9312b04858d8be27636f9">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1d56289a2a6a367bd9756a99b873f937daf566c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_a3d527bef80efe6a12e7c977341eaa673e66145f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/b106fbd181e4e44ea1d20e4fb1f409876c0e528d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33f69438bc560af67d41a6673668bf41ac081616/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/31e70d636dcf101779f88b92651974abffa30522/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9305c3f650dfaa26de89afd3fe5c0458dbb01c49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/7502f37cdbb5b8b608e309395efa8909cbec3e17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e6509d30ee58ceb2978efbf7c7ccdea718656f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/a40adbe570239562acdc2b6b7e342e7fbe1cd977/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2224f706a32df30d5925b64db5e9fa68324a1f29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/b106fbd181e4e44ea1d20e4fb1f409876c0e528d/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d4b2da36b90bb4bf6e73cb47eef666265acef68a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xingobar/.android/build-cache/a40adbe570239562acdc2b6b7e342e7fbe1cd977/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/xingobar/Desktop/programming/android/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_388f179c01f129ef7c525ab1e57dcc2e8ec7d32d/classes.dex" />
+    </item>
+
+</items>
