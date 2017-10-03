@@ -1,4 +1,5 @@
-package com.example.xingobar.calculator;
+﻿package com.example.xingobar.calculator;
+
 
 import android.icu.text.DecimalFormat;
 import android.support.v7.app.AppCompatActivity;
